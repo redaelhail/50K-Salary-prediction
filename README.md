@@ -3,7 +3,7 @@
 
 ## Dataset description:
 
-Dataset website: http://archive.ics.uci.edu/ml/datasets/Heart+Disease
+Dataset website: https://archive.ics.uci.edu/ml/datasets/adult
 
 - This data was extracted from the census bureau database found at: http://www.census.gov/ftp/pub/DES/www/welcome.html | Donor: Ronny Kohavi and Barry Becker, | Data Mining and Visualization | Silicon Graphics.
 
